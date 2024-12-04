@@ -1,0 +1,144 @@
+{
+  "header": {
+    "cars": "Cars",
+    "realEstate": "Real Estate",
+    "watches": "Watches",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login"
+  },
+  "hero": {
+    "title": "Luxury Excellence",
+    "subtitle": "Crypto Enabled",
+    "description": "Your Gateway to Exceptional Assets",
+    "cta": "Explore Our Collection"
+  },
+  "categories": {
+    "cars": {
+      "title": "Luxury Automobiles",
+      "description": "Discover prestigious vehicles"
+    },
+    "realEstate": {
+      "title": "Premium Real Estate",
+      "description": "Explore exceptional properties"
+    },
+    "watches": {
+      "title": "Watches & Jewelry",
+      "description": "Browse exclusive timepieces"
+    },
+    "discoverMore": "Discover More"
+  },
+  "benefits": {
+    "title": "Why Choose Bitopia",
+    "secure": {
+      "title": "Secure Crypto Payment",
+      "description": "Multiple cryptocurrency payment options"
+    },
+    "verified": {
+      "title": "Verified Partners",
+      "description": "Carefully vetted luxury partners"
+    },
+    "support": {
+      "title": "Personalized Service",
+      "description": "24/7 dedicated support"
+    },
+    "fast": {
+      "title": "Fast & Secure",
+      "description": "Swift and secure transactions"
+    }
+  },
+  "stats": {
+    "transactions": "Transactions",
+    "partners": "Partners",
+    "countries": "Countries",
+    "satisfied": "Satisfied Clients"
+  },
+  "footer": {
+    "description": "Your trusted destination for luxury assets in the digital age.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Subscribe to receive updates about new listings.",
+      "placeholder": "Your email"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have a question or interested in our services? Our team is here to help you.",
+    "address": {
+      "title": "Visit Us",
+      "line1": "Dubai International Financial Centre (DIFC)",
+      "line2": "Dubai, United Arab Emirates"
+    },
+    "phone": {
+      "title": "Call Us",
+      "number": "+971 4 XXX XXXX",
+      "hours": "Sunday - Thursday: 9am - 6pm GST"
+    },
+    "email": {
+      "title": "Email Us",
+      "response": "We'll respond within 24 hours"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "sent": "Message Sent!"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "intro": "Bitopia is a premier luxury marketplace based in Dubai, connecting discerning clients with exceptional assets through secure cryptocurrency transactions.",
+    "location": {
+      "title": "Dubai Headquarters",
+      "description": "Located in the heart of Dubai International Financial Centre (DIFC), we serve clients globally while maintaining the highest standards of service and compliance."
+    },
+    "crypto": {
+      "title": "Accepted Cryptocurrencies",
+      "major": "Major Cryptocurrencies",
+      "stablecoins": "Stablecoins",
+      "btc": "Bitcoin (BTC)",
+      "eth": "Ethereum (ETH)",
+      "usdt": "USD Tether (USDT)",
+      "usdc": "USD Coin (USDC)"
+    },
+    "commitment": {
+      "title": "Our Commitment",
+      "description": "We are committed to providing a secure, transparent, and efficient platform for luxury transactions in the digital age."
+    }
+  },
+  "kyc": {
+    "title": "KYC/AML Policy",
+    "riskBased": {
+      "title": "Risk-Based Approach",
+      "description": "At Bitopia, we implement a risk-based approach to KYC/AML verification. This means we do not require verification from all users by default. Instead, verification may be required in specific situations:"
+    },
+    "verification": {
+      "title": "Verification Process",
+      "triggers": "Verification Triggers",
+      "description": "When verification is required, we may request the following documents:"
+    },
+    "monitoring": {
+      "title": "Transaction Monitoring",
+      "description": "Our automated monitoring system screens for:"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "dataProtection": {
+      "title": "Data Protection"
+    },
+    "information": {
+      "title": "Information We Collect"
+    },
+    "rights": {
+      "title": "Your Rights"
+    }
+  }
+}

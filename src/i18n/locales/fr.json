@@ -1,0 +1,115 @@
+{
+  "header": {
+    "cars": "Voitures",
+    "realEstate": "Immobilier",
+    "watches": "Montres",
+    "about": "À propos",
+    "contact": "Contact",
+    "login": "Connexion"
+  },
+  "hero": {
+    "title": "Excellence du Luxe",
+    "subtitle": "Compatible Crypto",
+    "description": "Votre Passerelle vers des Actifs Exceptionnels",
+    "cta": "Découvrir Notre Collection"
+  },
+  "categories": {
+    "cars": {
+      "title": "Automobiles de Luxe",
+      "description": "Découvrez des véhicules prestigieux"
+    },
+    "realEstate": {
+      "title": "Immobilier Premium",
+      "description": "Explorez des propriétés exceptionnelles"
+    },
+    "watches": {
+      "title": "Montres & Joaillerie",
+      "description": "Parcourez des pièces exclusives"
+    },
+    "discoverMore": "En Savoir Plus"
+  },
+  "benefits": {
+    "title": "Pourquoi Choisir Bitopia",
+    "secure": {
+      "title": "Paiement Crypto Sécurisé",
+      "description": "Multiples options de paiement en cryptomonnaie"
+    },
+    "verified": {
+      "title": "Partenaires Vérifiés",
+      "description": "Partenaires de luxe soigneusement sélectionnés"
+    },
+    "support": {
+      "title": "Service Personnalisé",
+      "description": "Support dédié 24/7"
+    },
+    "fast": {
+      "title": "Rapide & Sécurisé",
+      "description": "Transactions rapides et sécurisées"
+    }
+  },
+  "stats": {
+    "transactions": "Transactions",
+    "partners": "Partenaires",
+    "countries": "Pays",
+    "satisfied": "Clients Satisfaits"
+  },
+  "footer": {
+    "description": "Votre destination de confiance pour les actifs de luxe à l'ère numérique.",
+    "quickLinks": "Liens Rapides",
+    "contact": "Contact",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Abonnez-vous pour recevoir les dernières annonces.",
+      "placeholder": "Votre email"
+    }
+  },
+  "about": {
+    "title": "À Propos",
+    "intro": "Bitopia est une place de marché de luxe premium basée à Dubaï, connectant des clients exigeants avec des actifs exceptionnels via des transactions en cryptomonnaie sécurisées.",
+    "location": {
+      "title": "Siège à Dubaï",
+      "description": "Situé au cœur du Dubai International Financial Centre (DIFC), nous servons des clients dans le monde entier tout en maintenant les plus hauts standards de service et de conformité."
+    },
+    "crypto": {
+      "title": "Cryptomonnaies Acceptées",
+      "major": "Cryptomonnaies Majeures",
+      "stablecoins": "Stablecoins",
+      "btc": "Bitcoin (BTC)",
+      "eth": "Ethereum (ETH)",
+      "usdt": "USD Tether (USDT)",
+      "usdc": "USD Coin (USDC)"
+    },
+    "commitment": {
+      "title": "Notre Engagement",
+      "description": "Nous nous engageons à fournir une plateforme sécurisée, transparente et efficace pour les transactions de luxe à l'ère numérique."
+    }
+  },
+  "kyc": {
+    "title": "Politique KYC/AML",
+    "riskBased": {
+      "title": "Approche Basée sur le Risque",
+      "description": "Chez Bitopia, nous appliquons une approche basée sur le risque pour la vérification KYC/AML. Cela signifie que nous ne demandons pas de vérification à tous les utilisateurs par défaut. La vérification peut être requise dans des situations spécifiques :"
+    },
+    "verification": {
+      "title": "Processus de Vérification",
+      "triggers": "Déclencheurs de Vérification",
+      "description": "Lorsque la vérification est requise, nous pouvons demander les documents suivants :"
+    },
+    "monitoring": {
+      "title": "Surveillance des Transactions",
+      "description": "Notre système de surveillance automatisé contrôle :"
+    }
+  },
+  "privacy": {
+    "title": "Politique de Confidentialité",
+    "dataProtection": {
+      "title": "Protection des Données"
+    },
+    "information": {
+      "title": "Informations Collectées"
+    },
+    "rights": {
+      "title": "Vos Droits"
+    }
+  }
+}
